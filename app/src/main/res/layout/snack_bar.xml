@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nispok.snackbar.Snackbar
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/snackBar">
+
+    <ImageButton
+        android:layout_width="69dp"
+        android:layout_height="59dp"
+        android:id="@+id/imageButton"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:text="85456448"
+        android:id="@+id/textViewsnack"/>
+
+</com.nispok.snackbar.Snackbar>
